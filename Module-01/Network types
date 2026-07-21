@@ -1,0 +1,6 @@
+
+[ PAN ] ────> Within arm's reach (Bluetooth, NFC)
+    └─> [ LAN ] ────> Single building (Home/Office Wi-Fi, Ethernet)
+          └─> [ CAN ] ────> Multiple adjacent buildings (University campus)
+                └─> [ MAN ] ────> City-wide (Municipal fiber, Cable TV)
+                      └─> [ WAN ] ────> Global scale (The Internet)
