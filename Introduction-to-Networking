@@ -17,3 +17,53 @@ These devices may communicate through:
 A network can be as small as two computers or as large as the Internet.
 
 ---
+
+# 🧠 Simple Analogy
+
+Imagine a city.
+
+```
+House 🏠
+     │
+     │ Road
+     │
+School 🏫
+```
+
+People travel using roads.
+
+In networking,
+
+```
+Computer 💻
+      │
+      │ Network
+      │
+Server 🖥
+```
+
+Data travels using the network.
+
+The network acts like a road for digital information.
+
+---
+
+# 💡 Why Do We Need Networks?
+
+Without networking,
+
+❌ No Google
+
+❌ No YouTube
+
+❌ No Online Games
+
+❌ No WhatsApp
+
+❌ No Cloud Storage
+
+Every modern online service depends on networking.
+
+---
+
+# 📌 Main Purposes of Networking
