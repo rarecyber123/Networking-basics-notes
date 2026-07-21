@@ -1,6 +1,5 @@
 
 # 🌐 — Introduction to Networking
-
 > "Networks connect devices. The Internet connects the world."
 
 ---
@@ -8,11 +7,11 @@
 
 # 🌍 What is a Network?
 
-A **network** is a group of devices connected together so they can communicate and share resources.
+> A **network** is a group of devices connected together so they can communicate and share resources.
 
 These devices may communicate through:
 
-- 🔌 Wired connections (Ethernet)
+-🔌 Wired connections (Ethernet)
 - 📶 Wireless connections (Wi-Fi)
 
 A network can be as small as two computers or as large as the Internet.
