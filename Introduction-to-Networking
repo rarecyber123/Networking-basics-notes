@@ -67,3 +67,67 @@ Every modern online service depends on networking.
 ---
 
 # 📌 Main Purposes of Networking
+
+
+Networking allows us to:
+
+✅ Share files
+
+✅ Share printers
+
+✅ Access the Internet
+
+✅ Communicate instantly
+
+✅ Work together remotely
+
+✅ Store data centrally
+
+---
+
+# 🌎 Real-Life Examples
+
+## 🏠 Home Network
+
+```
+ Laptop
+     │
+ Phone
+     │
+ Smart TV
+     │
+ Wi-Fi Router
+     │
+ Internet
+```
+
+Every device uses the same Internet connection.
+
+---
+
+## 🏫 School Network
+
+```
+Students
+
+↓
+
+Switch
+
+↓
+
+School Server
+
+↓
+
+Internet
+```
+
+Students can
+
+- Print assignments
+- Access LMS
+- Browse websites
+- Download notes
+
+---
