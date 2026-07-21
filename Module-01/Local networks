@@ -1,11 +1,7 @@
 
-# 📱 Cisco Networking Essentials - Module 1.1: Local Networks
+# 📱 Cisco Networking Essentials 
 
-> **Section Notes:** 1.1.5 Mobile Devices | 1.1.6 Connected Home Devices | 1.1.7 Other Connected Devices
-
----
-
-## 1.1.5 Mobile Devices
+## Mobile Devices
 
 Mobile devices are portable end devices that connect wirelessly to local networks and the Internet.
 
@@ -21,7 +17,7 @@ Mobile devices are portable end devices that connect wirelessly to local network
 
 ---
 
-## 1.1.6 Connected Home Devices
+## Connected Home Devices
 
 The modern home network consists of smart technology commonly categorized under the **Internet of Things (IoT)**.
 
@@ -36,7 +32,7 @@ The modern home network consists of smart technology commonly categorized under 
 
 ---
 
-## 1.1.7 Other Connected Devices
+## Other Connected Devices
 
 Beyond phones and homes, connected devices are heavily integrated into infrastructure, health, and enterprise environments.
 
