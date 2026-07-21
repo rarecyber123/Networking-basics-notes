@@ -17,10 +17,13 @@ These devices may communicate through:
 
 A network can be as small as two computers or as large as the Internet.
 
+
 ## 🧠 Analogy
+
 City roads carry people → Networks carry data.
 
 ---
+
 
 # 📌 Main Purposes of Networking
 
@@ -41,3 +44,5 @@ Networking allows us to:
 
 ---
 
+House 🏠 ── Road ── School 🏫
+Computer 💻 ── Network ── Server 🖥
