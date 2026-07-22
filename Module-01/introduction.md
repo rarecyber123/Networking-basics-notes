@@ -29,7 +29,7 @@
 
 ### Home Devices → Laptop, Phone, Smart TV, Router, Printer 
 
-Other Devices → Server, Switch, Router, Access Point  
+### Other Devices → Server, Switch, Router, Access Point  
 
 | Example | Office network | Mobile data on phone |
 
