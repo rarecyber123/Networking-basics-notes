@@ -22,7 +22,7 @@
 | Connection Type | Wired/Wi-Fi | Cellular (3G/4G/5G) |
 
 
-# 🎯 Summary in Urdu
+# 🎯 Summary 
 ### Local Net (LAN) → connect small area
 
 ### Mobile Net → Cellular technology wide coverage 
