@@ -60,3 +60,13 @@ IP Address Allocation:
 
 ---
 
+# 🎯 Summary 
+### Local Net (LAN) → connect small area
+
+### Mobile Net → Cellular technology wide coverage 
+
+### Home Devices → Laptop, Phone, Smart TV, Router, Printer 
+
+### Other Devices → Server, Switch, Router, Access Point  
+
+| Example | Office network | Mobile data on phone |
