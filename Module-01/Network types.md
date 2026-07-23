@@ -7,6 +7,7 @@
 - SOHO Network (Small Office / Home Office)
 - Medium to large (Switch, Router)
 
+Summary Table
 
 | Point | Description |
 | --- | ---|
