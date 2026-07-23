@@ -33,3 +33,18 @@ Wireless Connections: Ye devices primary level par Wi-Fi (802.11) aur Cellular N
 IP Address Allocation: Jab bhi koi mobile device kisi naye Wi-Fi network se connect hota hai, toh DHCP ke zariye use ek temporary IP address allocate kiya jata hai.
 
 ---
+
+
+# 🖥 Other Common Devices
+
+| Device | Purpose |
+| --- | --- |
+| **Server** | Provides services (web, email, storage) |
+| **Switch** | Connects devices inside LAN |
+| **Router** | Connects different networks together |
+| **Access Point** | Provides Wi-Fi connectivity |
+| **Database Server** | Stores structured data |
+| **Cloud Apps** | Remote services (Google Drive, Office 365) |
+
+---
+
