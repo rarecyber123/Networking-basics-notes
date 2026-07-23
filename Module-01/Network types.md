@@ -28,9 +28,11 @@
 - Smartglasses
 
 ## Networking Point of View:
-Wireless Connections: Ye devices primary level par Wi-Fi (802.11) aur Cellular Networks (4G/5G) par depend karte hain.
+Wireless Connections:
+  Ye devices primary level par Wi-Fi (802.11) aur Cellular Networks (4G/5G) par depend karte hain.
 
-IP Address Allocation: Jab bhi koi mobile device kisi naye Wi-Fi network se connect hota hai, toh DHCP ke zariye use ek temporary IP address allocate kiya jata hai.
+IP Address Allocation:
+  Jab bhi koi mobile device kisi naye Wi-Fi network se connect hota hai, toh DHCP ke zariye use ek temporary IP address allocate kiya jata hai.
 
 ---
 
@@ -45,6 +47,16 @@ IP Address Allocation: Jab bhi koi mobile device kisi naye Wi-Fi network se conn
 | **Access Point** | Provides Wi-Fi connectivity |
 | **Database Server** | Stores structured data |
 | **Cloud Apps** | Remote services (Google Drive, Office 365) |
+
+---
+
+# 📊 Comparison: Local Net vs Mobile Net
+
+| Feature | Local Net (LAN) | Mobile Net |
+| --- | --- | --- |
+| Coverage | Small area | Wide area |
+| Speed | High | Moderate |
+| Connection Type | Wired/Wi-Fi | Cellular (3G/4G/5G) |
 
 ---
 
