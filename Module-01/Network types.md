@@ -59,7 +59,9 @@ Beyond phones and homes, connected devices are heavily integrated into infrastru
 * **Wearable Health Monitors:** Heart rate and glucose monitors that stream real-time data directly to healthcare providers.
 * **Hospital Asset Tracking:** RFID and Wi-Fi tags attached to medical equipment to track location inside clinics.
 
-  
+### 3. Enterprise & Industrial (IIoT)
+* **Smart Meters:** Digital utility meters (electricity/water) that report real-time usage directly to utility companies.
+* **RFID Tags & Sensors:** Used in supply chain logistics to track inventory and packages in real-time.
 
 # 🖥 Other Common Devices
 
