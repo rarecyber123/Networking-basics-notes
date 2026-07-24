@@ -17,9 +17,6 @@ The modern home network consists of smart technology commonly categorized under 
 
 
 
-### 2. Healthcare (IoMT - Internet of Medical Things)
-* **Wearable Health Monitors:** Heart rate and glucose monitors that stream real-time data directly to healthcare providers.
-* **Hospital Asset Tracking:** RFID and Wi-Fi tags attached to medical equipment to track location inside clinics.
 
 ### 3. Enterprise & Industrial (IIoT)
 * **Smart Meters:** Digital utility meters (electricity/water) that report real-time usage directly to utility companies.
