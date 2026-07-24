@@ -15,13 +15,7 @@ The modern home network consists of smart technology commonly categorized under 
 
 ---
 
-## Other Connected Devices
 
-Beyond phones and homes, connected devices are heavily integrated into infrastructure, health, and enterprise environments.
-
-### 1. Smart Cities & Transportation
-* **Connected Cars / Vehicles:** Autonomous and web-connected vehicles that share real-time GPS, traffic, and diagnostic data.
-* **Smart Traffic Systems:** Sensors and connected cameras that dynamically adjust traffic light timings to reduce congestion.
 
 ### 2. Healthcare (IoMT - Internet of Medical Things)
 * **Wearable Health Monitors:** Heart rate and glucose monitors that stream real-time data directly to healthcare providers.
