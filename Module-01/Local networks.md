@@ -1,15 +1,4 @@
 
-# 📱 Cisco Networking Essentials 
-
-## Mobile Devices
-
-Mobile devices are portable end devices that connect wirelessly to local networks and the Internet.
-
-### Key Devices:
-* **Smartphones:** Handheld cellular devices combining phone capabilities with internet browsing, app execution, and multimedia features.
-* **Tablets:** Larger touch-screen devices optimized for media consumption, light computing, and wireless connectivity (Wi-Fi / Cellular).
-* **Smartwatches & Fitness Trackers:** Wearable technology that tracks biometrics and syncs with smartphones using short-range wireless.
-
 ### Primary Connectivity Methods:
 * **Wi-Fi (IEEE 802.11):** Used for connecting to local wireless networks (WLANs).
 * **Cellular Data (4G / 5G):** Used for Internet access when out of Wi-Fi range via provider cell towers.
