@@ -1,10 +1,4 @@
 
-### Primary Connectivity Methods:
-* **Wi-Fi (IEEE 802.11):** Used for connecting to local wireless networks (WLANs).
-* **Cellular Data (4G / 5G):** Used for Internet access when out of Wi-Fi range via provider cell towers.
-* **Bluetooth:** Short-range wireless used to connect peripherals (headphones, wearables, keyboards).
-
----
 
 ## Connected Home Devices
 
