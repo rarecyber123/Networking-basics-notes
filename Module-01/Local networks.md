@@ -18,10 +18,6 @@ The modern home network consists of smart technology commonly categorized under 
 
 
 
-### 3. Enterprise & Industrial (IIoT)
-* **Smart Meters:** Digital utility meters (electricity/water) that report real-time usage directly to utility companies.
-* **RFID Tags & Sensors:** Used in supply chain logistics to track inventory and packages in real-time.
-
 ---
 
 > **Key Takeaway:** End devices are no longer just desktop computers and laptops. Modern networks must securely support **Mobile**, **IoT Home**, and **Industrial Connected Devices**.
