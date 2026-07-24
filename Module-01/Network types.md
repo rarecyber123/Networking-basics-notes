@@ -55,6 +55,12 @@ Beyond phones and homes, connected devices are heavily integrated into infrastru
 * **Connected Cars / Vehicles:** Autonomous and web-connected vehicles that share real-time GPS, traffic, and diagnostic data.
 * **Smart Traffic Systems:** Sensors and connected cameras that dynamically adjust traffic light timings to reduce congestion.
 
+### 2. Healthcare (IoMT - Internet of Medical Things)
+* **Wearable Health Monitors:** Heart rate and glucose monitors that stream real-time data directly to healthcare providers.
+* **Hospital Asset Tracking:** RFID and Wi-Fi tags attached to medical equipment to track location inside clinics.
+
+  
+
 # 🖥 Other Common Devices
 
 | Device | Purpose |
