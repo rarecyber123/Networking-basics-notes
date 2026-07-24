@@ -47,6 +47,14 @@ IP Address Allocation:
 ---
 
 
+ ## Other Connected Devices
+
+Beyond phones and homes, connected devices are heavily integrated into infrastructure, health, and enterprise environments.
+
+### 1. Smart Cities & Transportation
+* **Connected Cars / Vehicles:** Autonomous and web-connected vehicles that share real-time GPS, traffic, and diagnostic data.
+* **Smart Traffic Systems:** Sensors and connected cameras that dynamically adjust traffic light timings to reduce congestion.
+
 # 🖥 Other Common Devices
 
 | Device | Purpose |
