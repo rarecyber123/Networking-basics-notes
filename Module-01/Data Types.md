@@ -19,17 +19,14 @@ Computers process and transmit bits through physical hardware using two distinct
 ## 🔄 Data Translation Flow
 Humans interact with characters and visuals, but CPUs only process binary patterns.
 
+---
 
-# 📝 ASCII (American Standard Code for Information Interchange)
+ ## 📌  ASCII? 
 
-## 📌 What is ASCII?
-
-> ** American Standard Code for Information Interchange **
-
+> American Standard Code for Information Interchange 
 
 ## 🔑 Key Features 
 * **ASCII** is a standardized code system that acts as a translator. It converts letters, numbers, and special characters into binary
-* **Fu
 * **Standard Length:** Each ASCII character is represented using **8 bits** (which equals **1 Byte**).
 * **Scope:** It covers capital letters ($A-Z$), small letters ($a-z$), numbers ($0-9$), and special characters (like `#`, `$`, `%`, etc.).
 
