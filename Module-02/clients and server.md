@@ -43,3 +43,15 @@ HYBRID P2P SYSTEM
   lekin resources ki location batane wali indexes central directory m hoti hain.
 
 **Working**    : Har peer index server ko access karke doosre peer par pari resource ki location hasil karta hai.
+
+---
+
+## Multiple Roles in the Network
+
+### Server Side 
+
+ Ek computer par multiple server software chal sakte hain (e.g., ek hi PC file, web, aur email server ban sakta hai
+ 
+### Client Side 
+
+ Ek computer par multiple client software chal sakte hain (e.g., ek user web page dekhte hue email check kare aur instant messaging chalaye).
