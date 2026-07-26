@@ -22,6 +22,7 @@
 ## Peer-to-Peer network (P2P)
 
 > Jab ek hi computer client aur server dono ke software ek sath chala raha ho.
+>  Har client server hai, aur har server client hai.
 
 ### Larger P2P  : **Multiple PCs ko connect karne ke liye switch jaisa network device chahiye hota hai.**
 
@@ -31,3 +32,14 @@
 |---|---|
 |Easy to set up | Less complex | Lower cost | Simple tasks (file transfer, printer sharing) ke liye best.
 | Disadvantages | No centralized administration | Not as secure | Not scalable | Performance slow honi ka risk.
+
+---
+
+## Hybrid Networks 
+
+
+HYBRID P2P SYSTEM
+>  Resource sharing decentralized hoti hai,
+  lekin resources ki location batane wali indexes central directory m hoti hain.
+
+**Working**    : Har peer index server ko access karke doosre peer par pari resource ki location hasil karta hai.
