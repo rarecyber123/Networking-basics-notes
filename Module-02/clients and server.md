@@ -28,6 +28,6 @@
 ## P2P ADVANTAGES & DISADVANTAGES
 
 |Advantages|Diadvantages|
-
+|---|---|
 |Easy to set up | Less complex | Lower cost | Simple tasks (file transfer, printer sharing) ke liye best.
 | Disadvantages | No centralized administration | Not as secure | Not scalable | Performance slow honi ka risk.
