@@ -33,4 +33,16 @@ Humans interact with characters and visuals, but CPUs only process binary patter
 
 ```
 
+## 📦 Bits vs. Bytes
+
+| Unit | Composition | Description |
+|---|---|---|
+| Bit | `1` single value (`0` or `1`) | Smallest piece of digital information |
+| Byte | **8 bits** (e.g., `01000001`) | Used to represent a single character (letter, number, or symbol) |
+
+### 💡 **Key Takeaway**
+
+All digital information—graphics, videos, photos, audio, and code—is fundamentally broken down and stored as patterns of bits.
+
+```
 
