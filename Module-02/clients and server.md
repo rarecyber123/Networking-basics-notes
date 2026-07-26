@@ -24,8 +24,10 @@
 > Jab ek hi computer client aur server dono ke software ek sath chala raha ho.
 
 ### Larger P2P  : **Multiple PCs ko connect karne ke liye switch jaisa network device chahiye hota hai.**
-### Disadvantage: **Performance slow ho sakti hai agar device ek hi waqt m client aur server dono bane.**
 
-P2P ADVANTAGES & DISADVANTAGES
-├─ Advantages    : Easy to set up | Less complex | Lower cost | Simple tasks (file transfer, printer sharing) ke liye best.
-└─ Disadvantages : No centralized administration | Not as secure | Not scalable | Performance slow honi ka risk.
+## P2P ADVANTAGES & DISADVANTAGES
+
+|Advantages|Diadvantages|
+
+|Easy to set up | Less complex | Lower cost | Simple tasks (file transfer, printer sharing) ke liye best.
+| Disadvantages | No centralized administration | Not as secure | Not scalable | Performance slow honi ka risk.
