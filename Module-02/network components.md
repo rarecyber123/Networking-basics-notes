@@ -29,3 +29,23 @@ Uniquely identify karne ke liye IP/Network addresses use hote hain.
    - Telecommunications   : IP phones, TelePresence endpoints, teleconferencing equipment.
    - Security             : Security cameras.
    - Mobile Devices       : Smartphones, wireless tablets, PDAs, wireless debit/credit card readers, barcode scanners.
+
+---
+
+INTERMEDIARY DEVICES
+├─ Role       : Messages ko destination tak pohnchane ke liye route aur manage karna.
+└─ Examples   :
+   ├─ Wireless Router
+   ├─ LAN Switch
+   ├─ Router
+   ├─ Multilayer Switch
+   └─ Firewall Appliance
+
+   ---
+
+   NETWORK MEDIA
+├─ Role       : Message transmission ke liye physical ya wireless path provide karna.
+└─ Types      :
+   ├─ Wireless Media : Radio frequencies ya infrared waves (air ke zariye transmission).
+   ├─ LAN Media      : Physical cables (Local Area Network links).
+   └─ WAN Media      : Wide Area Network connections (geographically large links).
