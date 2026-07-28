@@ -32,18 +32,25 @@ Uniquely identify karne ke liye IP/Network addresses use hote hain.
 
 ---
 
-INTERMEDIARY DEVICES
+## INTERMEDIARY DEVICES
+
 ├─ Role       : Messages ko destination tak pohnchane ke liye route aur manage karna.
+
 └─ Examples   :
+
    ├─ Wireless Router
+   
    ├─ LAN Switch
+   
    ├─ Router
+   
    ├─ Multilayer Switch
+   
    └─ Firewall Appliance
 
    ---
 
-   NETWORK MEDIA
+  ## NETWORK MEDIA
 ├─ Role       : Message transmission ke liye physical ya wireless path provide karna.
 └─ Types      :
    ├─ Wireless Media : Radio frequencies ya infrared waves (air ke zariye transmission).
