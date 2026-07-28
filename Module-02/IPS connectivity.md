@@ -3,15 +3,11 @@
 
 > Ek organization ya company jo users, homes, aur businesses ko Internet se connect hone ki facility provide karti hai.
 
- 
-
 ## 🌐 ISP Connectivity Options
 
  An **Internet Service Provider (ISP)** provides the link between home/small office networks and the global internet. ISPs connect hierarchically to form the **Internet Backbone**—a high-speed global network primarily connected via underground and undersea **fiber-optic cables**.
 
 --- 
-
-# Module 2.3: ISP Connectivity Options
 
 ### 1. ISP Services
 * **ISP (Internet Service Provider):** Yeh woh company hoti hai jo aapke ghar ya office network ko internet se connect karti hai.
@@ -78,12 +74,4 @@
 
 ---
 
-### 🔑 Important Terms & Definitions
 
-* **ISP (Internet Service Provider):** An organization that connects end-user networks to the internet infrastructure.
-* **Internet Backbone:** The core interconnecting network of high-speed data links and routers spanning continents via fiber-optic cables.
-* **Integrated Router:** A multi-function device combining a Router, Switch, Wireless Access Point (AP), and Modem functionality.
-* **Coaxial Cable:** A shielded copper cable capable of carrying television and high-speed data signals simultaneously.
-* **DSL Modem:** A signal converter that splits phone line frequencies into dedicated data and voice channels.
-* **Line of Sight:** Unobstructed physical path required between a ground satellite dish and an orbital satellite.
-* **Metered Bandwidth:** A service plan that tracks data usage and charges additional fees for exceeding allocated thresholds.
