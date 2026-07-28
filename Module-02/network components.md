@@ -38,21 +38,26 @@ Uniquely identify karne ke liye IP/Network addresses use hote hain.
 
 └─ Examples   :
 
-   ├─ Wireless Router
+      ├─ Wireless Router
    
-   ├─ LAN Switch
+      ├─ LAN Switch
    
-   ├─ Router
+       ├─ Router
    
-   ├─ Multilayer Switch
+       ├─ Multilayer Switch
    
-   └─ Firewall Appliance
+       └─ Firewall Appliance
 
    ---
 
   ## NETWORK MEDIA
+  
 ├─ Role       : Message transmission ke liye physical ya wireless path provide karna.
+
 └─ Types      :
-   ├─ Wireless Media : Radio frequencies ya infrared waves (air ke zariye transmission).
-   ├─ LAN Media      : Physical cables (Local Area Network links).
-   └─ WAN Media      : Wide Area Network connections (geographically large links).
+
+    ├─ Wireless Media : Radio frequencies ya infrared waves (air ke zariye transmission).
+    
+    ├─ LAN Media      : Physical cables (Local Area Network links).
+    
+    └─ WAN Media      : Wide Area Network connections (geographically large links).
