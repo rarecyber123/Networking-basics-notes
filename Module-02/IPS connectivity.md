@@ -61,17 +61,5 @@
 * **Line of Sight:** Dish antenna aur space satellite ke beech bina kisi rukawat ke saaf rasta.
 * **Metered Bandwidth:** Limited data plan jisme limit se upar data use karne par extra bill aata hai.
 
-
-### 🔌 Connectivity Options Comparison
-
-| Connection Type | Medium / Infrastructure | Key Features & Characteristics |
-| :--- | :--- | :--- |
-| **Cable** | Coaxial Cable (Cable TV Network) | High bandwidth, "always-on" connection. Uses a **Cable Modem** to separate internet data from TV signals. |
-| **DSL** | Landline Telephone Line | "Always-on" high-speed access. Splits line into 3 channels (Voice, Download, Upload). Performance degrades with distance from central office. |
-| **Cellular** | Mobile Towers (3G / 4G / 5G) | Ideal for mobile access or remote areas. Often subject to **metered bandwidth** (data limits/charges). |
-| **Satellite** | Satellite Dish & RF Signals | Requires a clear **Line of Sight** to space satellite. Great for rural areas; higher setup costs & latency. |
-| **Dial-Up** | Analog Telephone Line | Low bandwidth, legacy option. Requires dialing an access number; occupies phone line during use. |
-
 ---
-
 
