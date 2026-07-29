@@ -14,10 +14,18 @@
 
 ### 🌐 GPS (Global Positioning System)
 
-**What it does** : Uses a network of global satellites to calculate a device’s physical location.
+    **What it does** : Uses a network of global satellites to calculate a device’s physical location.
 
-**Key Detail** : Highly accurate—typically pinpoints location within 10 meters.
+    **Key Detail** : Highly accurate—typically pinpoints location within 10 meters.
 
-**Direction** : Read-only / Receiver-only (your phone receives signals from satellites to calculate coordinates).
+    **Direction** : Read-only / Receiver-only (your phone receives signals from satellites to calculate coordinates).
 
-📶 Wi-Fi (Wireless Fidelity
+---
+
+### 📶 Wi-Fi (Wireless Fidelity)
+
+    **What it does** : Connects devices to local area networks (LANs) and the internet using wireless access points (APs) or routers.
+
+   **Hotspot** : A specific geographic area where a Wi-Fi signal is available for public or private access.
+
+**Use Case** : Ideal for high-speed data transfer over medium distances (homes, offices, cafes).
