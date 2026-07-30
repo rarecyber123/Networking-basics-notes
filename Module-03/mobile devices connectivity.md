@@ -34,3 +34,17 @@
 
 Bluetooth is designed for short-range, low-power connections between devices without needing extra routers, 
 towers, or messy cables. Up to 8 devices can be connected in a single Bluetooth network at once.
+
+---
+
+### Mobile Devices and Wi-Fi
+
+Connecting to Wi-Fi whenever possible is usually the best approach because it doesn't consume your cellular data plan, 
+and Wi-Fi radios consume less power, which saves battery life.
+
+---
+
+### Cellular Data 
+
+When you move out of Wi-Fi range, your mobile device automatically switches over to your cellular provider's network 
+(like 4G or 5G).
