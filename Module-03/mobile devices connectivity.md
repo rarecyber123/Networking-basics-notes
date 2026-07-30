@@ -26,4 +26,11 @@
 
 *VPN (Virtual Private Network)* 
 
->A secure, encrypted tunnel used to protect sensitive data over public Wi-Fi.
+> A secure, encrypted tunnel used to protect sensitive data over public Wi-Fi.
+
+---
+
+### Bluetooth & Pairing 
+
+Bluetooth is designed for short-range, low-power connections between devices without needing extra routers, 
+towers, or messy cables. Up to 8 devices can be connected in a single Bluetooth network at once.
