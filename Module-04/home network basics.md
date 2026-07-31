@@ -7,6 +7,7 @@
 
 **Integrated Devices**: Home routers aksar multiple network components (Router, Switch, Wireless Access Point) ko ek hi physical device mein combine kartey hain.
 
+---
 
 ### 2. Components of a Home Network
 
@@ -18,6 +19,7 @@ Ghar mein internet se connect hone wali aam devices:
 
 **Core Network Device**: Wireless Router jo sabhi local devices ko Internet Service Provider (ISP) ke zariye internet se jodta hai.
 
+---
 
 ### 3. Home Network Routers & Ports
 
