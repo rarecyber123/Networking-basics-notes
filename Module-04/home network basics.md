@@ -42,3 +42,13 @@ Yeh port internal LAN ports se alag network par kaam karta hai.
 Modern home routers mein built-in Wireless Access Point (WAP) aur radio antennas hotey hain.
 
 Default settings mein, wireless devices aur LAN ports se jude wired devices ek hi local network ka hissa hotey hain.
+
+---
+
+| Term | Full Form / Description |
+|---|---|
+| **ISP** |Internet Service Provider — Wo company jo aapko internet connection provide karti hai |
+| **WLAN** | Wireless Local Area Network — Local area network jo radio signals ke zariye devices ko wireless connect karta hai|
+| **LAN Port** | Local Area Network Port — Switch ports jo ghar ke andar wired devices ko ek hi local network se jodte hain |
+| **WAN Port** | Wide Area Network (Internet) Port — Port jo router ko ghar ke bahar ISP ya Internet se jodta hai |
+| **Integrated Router** | Ek single device jo Router, Switch, aur Wireless Access Point teeno ka kaam karti hai |
