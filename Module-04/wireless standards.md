@@ -23,4 +23,20 @@
 
 ---
 
+# Build a Home Network Summary
 
+## Integrated Router
+
+> Home routers combine multiple network components into one physical device: a Router, Switch, and Wireless Access Point (AP).
+
+## Wireless Security (WPA / WPA2 / WPA3)
+
+> Encryption protocols used to secure wireless communications and restrict unauthorized network access.
+
+Wireless Security (WPA / WPA2 / WPA3):
+
+Encryption protocols used to secure wireless communications and restrict unauthorized network access.
+
+## Basic Network Configuration
+
+> Involves setting up the SSID, selecting an appropriate Wireless Channel, and applying Password / Encryption settings to protect the home network.
