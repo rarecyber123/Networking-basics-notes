@@ -33,9 +33,9 @@
 
 > Encryption protocols used to secure wireless communications and restrict unauthorized network access.
 
-Wireless Security (WPA / WPA2 / WPA3):
+## Wireless Security (WPA / WPA2 / WPA3)
 
-Encryption protocols used to secure wireless communications and restrict unauthorized network access.
+> Encryption protocols used to secure wireless communications and restrict unauthorized network access.
 
 ## Basic Network Configuration
 
