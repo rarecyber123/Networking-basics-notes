@@ -1,18 +1,18 @@
 
-# Standards Organizations
+# 1. Standards Organizations
 
- Yeh wo independent vendor-neutral organizations hain jo internet aur network communication ke open rules aur standards banati hain taake har brand ki device ek dusre se connect ho sake.
+> Yeh wo independent vendor-neutral organizations hain jo internet aur network communication ke open rules aur standards banati hain taake har brand ki device ek dusre se connect ho sake.
 
-Key Organizations:
+### Key Organizations:
 
-IETF (Internet Engineering Task Force): Internet ke protocols aur operational standards banata hai.
+- ## IETF (Internet Engineering Task Force): Internet ke protocols aur operational standards banata hai.
 
-IEEE (Institute of Electrical and Electronics Engineers): Physical media aur networking standards (jaise Wi-Fi 802.11 aur Ethernet 802.3
+- ## IEEE (Institute of Electrical and Electronics Engineers): Physical media aur networking standards (jaise Wi-Fi 802.11 aur Ethernet 802.3 design karta hai.
 
+- ## IANA / ICANN: IP addresses aur domain names ko allocate aur manage karte hain.
 
-design karta hai.
+---
 
-IANA / ICANN: IP addresses aur domain names ko allocate aur manage karte hain.
 
 2. Request for Comments (RFC)
 Definition: Yeh official documents hotay hain jin mein internet ke tamam new protocols, standard proposals, aur technologies ki complete documentation aur rules record hotay hain.
