@@ -15,10 +15,21 @@
 
 ---
 
-##💡 Additional Important Terms 
+
+ ## Additional Important Terms 
 
 - **Message Encoding** Message ko digital data/signals (0s & 1s) mein convert karna taake media (wires/wireless) par bheja ja sake.
 
 - **Message Formatting & Encapsulation**: Data ko specific structure (headers & footers/trailers) ke saath packetize karna taake destination address aur control info add ho sake.
 
 - **Message Size (Formatting)**: Long messages ko chhote pieces (segments/packets) mein divide karna taake network par easily travel kar sakein.
+
+- Message Timing: Communication speed (Flow Control), Response Timeout, aur Access Method (jab koi device bolna start kar sakti hai) ko control karna.
+
+- ### Message Delivery Options:
+
+   *Unicast*: Ek sender se ek receiver ko (1-to-1).
+
+   *Multicast*: Ek sender se kuch select receivers ko (1-to-many).
+
+   *Broadcast*: Ek sender se network ke tamam devices ko (1-to-all).
