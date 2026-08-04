@@ -15,4 +15,14 @@
 
   ---
 
-  
+# 2. Model Types (Data Models)
+
+- ### Protocol Model:
+   Aisa model jo kisi specific protocol suite ke structure se closely match karta hai (e.g., TCP/IP Model).
+
+-### Reference Model:
+   Aisa model jo kisi layer par hone wale functions ko describe karta hai lekin yeh nahi batata ki wo function kaise execute hoga (e.g., OSI Model).
+
+   ---
+
+   
