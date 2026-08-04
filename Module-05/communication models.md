@@ -57,5 +57,5 @@
 Layer 4 par kaam karta hai aur message ki reliable delivery guarantee karta hai.
 
 - ### IP (Internet Protocol):
-   Layer 3 par kaam karta hai aur routers dwara messages ko forward/route karne ke liye istemal hota hai.
+Layer 3 par kaam karta hai aur routers dwara messages ko forward/route karne ke liye istemal hota hai.
 
