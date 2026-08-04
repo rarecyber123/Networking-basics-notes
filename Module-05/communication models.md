@@ -44,3 +44,18 @@
 
 ### Layer 6 - Presentation
 > Application layer services ke darmiyan transferred data ka common representation/formatting provide karta hai.
+
+### Layer 7 - Application
+> Process-to-process communication ke liye protocols contain karta hai.
+
+---
+
+# Key Protocols 
+
+- ### TCP (Transmission Control Protocol): 
+
+Layer 4 par kaam karta hai aur message ki reliable delivery guarantee karta hai.
+
+- ### IP (Internet Protocol):
+   Layer 3 par kaam karta hai aur routers dwara messages ko forward/route karne ke liye istemal hota hai.
+
