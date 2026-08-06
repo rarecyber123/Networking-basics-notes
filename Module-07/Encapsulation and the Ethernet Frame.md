@@ -23,4 +23,16 @@
 
 **De-encapsulation:**
 
-Jab destination device message receive karke envelope (frame header) ko remove karti hai aur andar ka data parhti hai, use de-encapsulation kehte hain.
+- Jab destination device message receive karke envelope (frame header) ko remove karti hai aur andar ka data parhti hai, use de-encapsulation kehte hain.
+
+  ---
+
+# 2. Important Terms Summary
+
+## Ethernet Frame: 
+
+Data Link Layer ka Protocol Data Unit (PDU) jo data ko header aur trailer ke sath wrap karta hai taakay physical media par transmission ho sake.
+
+## MAC Address:
+
+Physical Address jo NIC card par hard-code (burn) hota hai. Frame ke andar Source aur Destination MAC addresses shamil hote hain.
