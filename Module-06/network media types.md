@@ -44,3 +44,13 @@ Network media choose karte waqt 4 baaton ka dhyan rakha jata hai:
 > Isme ek single rigid copper core hoti hai jiske gird insulation, braided metal shielding, aur outer jacket hoti hai.
 
 > High-frequency / Broadband signals carry karta hai.
+
+**Fiber-Optic Cable:**
+
+> Glass ya plastic fibers (insani baal jitni patli) se banta hai.
+
+> High speeds par long-distance communication ke liye use hota hai.
+
+> Electrical interference se is par koi asar nahi padta kyunki light use hoti hai.
+
+> Backbone networks, data centers, aur ISP/Telecom companies me heavy data transmission ke liye lagaya jata hai.
