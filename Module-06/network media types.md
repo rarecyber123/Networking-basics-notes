@@ -11,3 +11,18 @@ Data network par transmit hone ke liye teen tarah ke media use karta hai:
 
 - ### Wireless Transmission:
   Data ko electromagnetic waves ke frequencies modulate karke transmit kiya jata hai.
+
+---
+
+# 2. Media Select Karne Ke 4 Criteria
+Network media choose karte waqt 4 baaton ka dhyan rakha jata hai:
+
+- Maximum Distance: Media bagair signal lose kiye kitni dur tak signal le ja sakta hai.
+
+- Environment: Media kis jagah install hoga (interference, weather, etc.).
+
+- Bandwidth & Speed: Data ki quantity aur transmission ki required speed kitni hai.
+
+Cost: Media aur uski installation ka kul kharcha.
+
+3. Common Network Cables
