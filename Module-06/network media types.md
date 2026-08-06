@@ -54,3 +54,16 @@ Network media choose karte waqt 4 baaton ka dhyan rakha jata hai:
 > Electrical interference se is par koi asar nahi padta kyunki light use hoti hai.
 
 > Backbone networks, data centers, aur ISP/Telecom companies me heavy data transmission ke liye lagaya jata hai.
+
+---
+
+# 4. Important Terms Summary
+
+## Media:
+ Woh physical medium ya channel jiske zariye data source se destination tak travel karta hai.
+
+## Interference: 
+Wires ke aas paas se milne wala electrical shor jo signal ko kharab kar sakta hai (Twisted pair isko reduce karta hai).
+
+## Bandwidth:
+Kisi media ki data carry karne ki maximum capacity.
