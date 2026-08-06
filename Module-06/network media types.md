@@ -28,3 +28,11 @@ Network media choose karte waqt 4 baaton ka dhyan rakha jata hai:
   ---
 
 # 3. Common Network Cables
+
+**Twisted-Pair Cable:**
+
+> Sub se ziada Ethernet local networks (LAN) me end devices ko connect karne ke liye istemal hota hai.
+
+> Wires joron (pairs) me twisted hoti hain taakay interference (shor/khlal) kam se kam ho.
+
+> Har wire par specific color-coding hoti hai (solid color + striped partner).
