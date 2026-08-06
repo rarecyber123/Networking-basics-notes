@@ -36,3 +36,15 @@ Data Link Layer ka Protocol Data Unit (PDU) jo data ko header aur trailer ke sat
 ## MAC Address:
 
 Physical Address jo NIC card par hard-code (burn) hota hai. Frame ke andar Source aur Destination MAC addresses shamil hote hain.
+
+## OSI Model Layer:
+
+Ethernet protocol OSI model ki Layer 2 (Data Link Layer) par kaam karta hai.
+
+## Preamble & SFD (Start Frame Delimiter):
+
+Ethernet frame ke shuru me lagne wale bits jo receiving device ko frame start hone ki notification/synchronization dete hain.
+
+## FCS (Frame Check Sequence):
+
+Frame ke aakhir me lagne wala error-checking mechanism jo check karta hai ke data corrupt to nahi hua.
