@@ -23,6 +23,8 @@ Network media choose karte waqt 4 baaton ka dhyan rakha jata hai:
 
 - Bandwidth & Speed: Data ki quantity aur transmission ki required speed kitni hai.
 
-Cost: Media aur uski installation ka kul kharcha.
+- Cost: Media aur uski installation ka kul kharcha.
 
-3. Common Network Cables
+  ---
+
+# 3. Common Network Cables
