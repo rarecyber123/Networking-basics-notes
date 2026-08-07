@@ -53,3 +53,11 @@ When a frame enters a switch port, the switch looks at the Source MAC Address. I
  **Flooding:**5
     
     Unicast frame ko tamam ports par bhejna jab destination MAC address table mein maujood na ho.
+
+**Unicast:**
+
+    Specific single target device ko data frame bhejna.
+
+**Collision Domain:**
+
+    Network ka wo hissed jahan do devices ek hi waqt data bhej kar packet collision paida kar sakte hain (Switches ise eliminate kar dete hain).
