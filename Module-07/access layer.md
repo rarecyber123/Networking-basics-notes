@@ -37,4 +37,6 @@ When a frame enters a switch port, the switch looks at the Source MAC Address. I
 **Access Layer**: 
                  LAN topology ka wo layer jo end-user devices ko network se connect karta hai.
 
-                 
+**MAC Address Table (CAM Table)**:
+                                  Switch ki internal memory jahan Port Numbers aur unse jude Devices ke MAC Addresses ka record hota hai.                
+
