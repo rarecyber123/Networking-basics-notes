@@ -30,3 +30,11 @@ When a frame enters a switch port, the switch looks at the Source MAC Address. I
 |---|---|
 | Ethernet Switches: Modern standard. They isolate collision domains per port and forward traffic intelligently based on MAC addresses.| Ethernet Hubs: Considered obsolete. They simply repeat incoming signals out all other ports without reading MAC addresses, causing frequent network collisions.|
    
+---
+
+# Key Vocabulary
+
+**Access Layer**: 
+                 LAN topology ka wo layer jo end-user devices ko network se connect karta hai.
+
+                 
