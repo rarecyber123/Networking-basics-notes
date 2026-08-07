@@ -42,3 +42,14 @@ When a frame enters a switch port, the switch looks at the Source MAC Address. I
     
     Switch ki internal memory jahan Port Numbers aur unse jude Devices ke MAC Addresses ka record hota hai.                
 
+**Destination MAC Address**: 
+
+    Ethernet frame ka wo field jisko read karke switch frame ko agey pathanta (forward) karta ha
+
+**Source MAC Address**:
+
+    Ethernet frame ka wo field jisko read karke switch apni MAC table mein nayi entries add karta hai.
+
+ **Flooding:**5
+    
+    Unicast frame ko tamam ports par bhejna jab destination MAC address table mein maujood na ho.
