@@ -17,11 +17,15 @@ An **IPv4 address** is a logical network address assigned to a network interface
        
 
 3. **Scope of Uniqueness**
+   
    - **Local Communication:** Must be unique within the Local Area Network (LAN).
+     
    - **Remote Communication:** Public IP addresses must be globally unique across the internet.
 
-4. **Packet Header Requirement**
+3. **Packet Header Requirement**
+   
    - Every IPv4 packet transmitted across a network contains a **Source IPv4 Address** and a **Destination IPv4 Address**.
+     
    - Ensures data reaches its intended recipient and allows destination devices to reply back.
 
 ---
