@@ -3,7 +3,11 @@
 
 > An IPv4 address isn't just a random set of numbers—it follows a clear hierarchical structure designed to help routers direct network traffic efficiently.
 
-Core Structure: Network vs. Host
+---
+
+# Core Structure:
+   
+   Network vs. Host
 
 # Key Takeaway Terms
 
