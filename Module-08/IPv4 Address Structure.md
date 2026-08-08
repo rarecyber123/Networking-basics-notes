@@ -6,8 +6,15 @@
 ---
 
 # Core Structure:
-   
-   Network vs. Host
+
+    Every 32-bit IPv4 address is divided into two essential parts:
+    
+| **Network** | **Host** |
+|---|---|  
+
+| **Network Portion:** Identifies the specific network segment a device belongs to. |
+
+| **Host Portion:** Identifies the individual device (PC, printer, router interface) on that network. |
 
 # Key Takeaway Terms
 
