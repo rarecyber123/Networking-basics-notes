@@ -13,6 +13,18 @@
 |---|---|  
 | **Network Portion:** Identifies the specific network segment a device belongs to. | **Host Portion:** Identifies the individual device (PC, printer, router interface) on that network. |
 
+### To figure out where the network part ends and the host part begins, devices use a subnet mask.
+
+Example:
+
+` For IP address 192.168.5.11 with subnet mask 255.255.255.0:
+
+192.168.5 is the Network portion (first 3 octets). 
+
+ 11 is the Host portion (last octet). 
+
+---
+
 # Key Takeaway Terms
 
 * **IPv4 Address**:
