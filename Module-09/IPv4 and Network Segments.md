@@ -30,3 +30,7 @@
 ## IGMP (Internet Group Management Protocol): 
   
   A protocol used by IPv4 hosts to report their multicast group memberships to neighbor multicast routers.
+
+##  PIM (Protocol Independent Multicast):
+
+  Routing protocol used by routers to construct distribution trees and route multicast traffic across network boundaries.
