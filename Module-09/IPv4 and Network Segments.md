@@ -10,3 +10,15 @@
 ## Multicast:
 
   One-to-many communication ($1 \to \text{Many}$). Traffic is sent from one source to a selected group of destination hosts that have explicitly subscribed/joined the group.
+
+## Broadcast Domain: 
+
+  The boundary of a network segment where a Layer 2/3 broadcast frame or packet can propagate. Routers create boundaries for broadcast domains and do not forward local broadcast packets by default.
+
+## Broadcast Domain: 
+
+ The boundary of a network segment where a Layer 2/3 broadcast frame or packet can propagate. Routers create boundaries for broadcast domains and do not forward local broadcast packets by default.
+
+ ## Directed Broadcast: 
+ 
+ A broadcast packet sent from a remote source to all hosts on a target remote network (e.g., 192.168.1.255 on a 192.168.1.0/24 network). Disabled by default on modern network routers to prevent DDoS/Smurf attacks.
