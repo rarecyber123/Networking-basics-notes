@@ -3,6 +3,8 @@
 
 > A **network** is a group of devices connected together so they can communicate and share resources.
 
+---
+
 
 | **Networking** | **Internet** |
 |---|---|
@@ -61,14 +63,6 @@ Computer 💻 ── Network ── Server 🖥
 
 ---
 
-
-## 💡 Memory Trick
-People → Need Roads → Roads Connect Cities
-Devices → Need Networks → Networks Connect Devices
-
-
----
-
 ## 📖 Quick Revision
 ✔ Network = Connected devices  
 ✔ Purpose = Communication  
@@ -81,21 +75,3 @@ Devices → Need Networks → Networks Connect Devices
 
 ---
 
-
-## 🧠 Interview Corner
-**Q1. What is a network?**  
-A collection of connected devices that communicate and share resources.
-
-**Q2. Name three shared resources.**  
-- Files  
-- Printers  
-- Internet  
-
-**Q3. Is Wi-Fi the Internet?**  
-No. Wi-Fi is just a wireless connection method.
-
----
-
-## 🎯 Remember
-> A computer without a network is powerful.  
-> A computer connected to a network becomes useful.
