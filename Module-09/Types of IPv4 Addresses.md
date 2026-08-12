@@ -38,3 +38,22 @@ Kuch IP addresses specific tasks ke liye reserved hote hain:
    - Loopback Addresses ($127.0.0.0/8$): Commonly $127.0.0.1$ istemal hota hai. Yeh device apne hi TCP/IP stack aur internal connection ko test/ping karne ke liye use karta hai.
    
    - Link-Local Addresses ($169.254.0.0/16$): Isko APIPA (Automatic Private IP Addressing) bhi kehte hain. Jab kisi PC ko DHCP server se IP nahi milta, toh Windows client khud ko is range se auto-assign kar leta hai.
+
+---
+
+# Key Terms (Important Summary)
+
+- **NAT (Network Address Translation)**: Private IP ko Public IP mein convert karne ka process.
+
+- **Loopback ($127.0.0.1$)**: Apne hi system ki NIC/IP configuration test karne ke liye.
+
+- **APIPA / Link-Local ($169.254.x.x$)**: IP na milne par PC ka self-assigned temporary IP.
+
+- **Classless Addressing**: Subnet mask ke mutabiq flexible IP distribution (Classful system ka replacement).
+
+- **RIRs**: Regional bodies jo IP management aur allocation karti hain.
+
+ 
+
+  
+
