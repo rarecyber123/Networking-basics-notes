@@ -28,3 +28,13 @@ Kyunke private IP addresses internet par direct nahi chal sakte, is liye NAT (Ne
     Jab aapke local network ka packet bahar nikalta hai, toh aapka router uske private IP ko ek Public IP mein translate/change kar deta hai.
 
     Is tarah private IP wale devices bhi internet se communicate kar paate hain.
+
+---
+
+# Special Use IPv4 Addresses 
+
+Kuch IP addresses specific tasks ke liye reserved hote hain:
+
+   - Loopback Addresses ($127.0.0.0/8$): Commonly $127.0.0.1$ istemal hota hai. Yeh device apne hi TCP/IP stack aur internal connection ko test/ping karne ke liye use karta hai.
+   
+   - Link-Local Addresses ($169.254.0.0/16$): Isko APIPA (Automatic Private IP Addressing) bhi kehte hain. Jab kisi PC ko DHCP server se IP nahi milta, toh Windows client khud ko is range se auto-assign kar leta hai.
