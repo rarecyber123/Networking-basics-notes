@@ -18,3 +18,13 @@ Yeh internal local networks (jaise ghar ya office) mein istemal hote hain aur in
 - 10.0.0.0/8 ($10.0.0.0$ – $10.255.255.255$)
 - 172.16.0.0/12 ($172.16.0.0$ – $172.31.255.255$)
 - 192.168.0.0/16 ($192.168.0.0$ – $192.168.255.255$)
+
+  ---
+
+ # Routing to the Internet & NAT
+ 
+Kyunke private IP addresses internet par direct nahi chal sakte, is liye NAT (Network Address Translation) ka istemal hota hai:
+
+    Jab aapke local network ka packet bahar nikalta hai, toh aapka router uske private IP ko ek Public IP mein translate/change kar deta hai.
+
+    Is tarah private IP wale devices bhi internet se communicate kar paate hain.
