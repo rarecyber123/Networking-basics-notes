@@ -37,3 +37,10 @@ Network ko divide karne ki main waja:
 
   ---
   
+## 5. Ways to Divide/Group Subnets
+
+Administrators alag alag tareeqon se subnets banate hain:
+
+1. **By Location:** Har floor ke liye alag subnet (e.g., 1st floor = Subnet 1, 2nd floor = Subnet 2).
+2. **By Group / Function:** Departments ke hisab se (e.g., Admin, HR, Accounting, Students).
+3. **By Device Type:** Devices ke role ke hisab se (e.g., All PCs, All Printers, All Servers).
