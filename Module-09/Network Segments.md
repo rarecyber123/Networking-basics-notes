@@ -4,7 +4,7 @@
   - Fast definition: Network ka wo poora area jahan agar ek device broadcast message bheje, toh baaki saare devices ko wo message milta hai.
   - Switches broadcast traffic ko har jagah aage pass (propagate) karte hain.
 
---
+---
 
 ### 2. Large Broadcast Domains ke Masley (Problems)
 
@@ -44,3 +44,6 @@ Administrators alag alag tareeqon se subnets banate hain:
 1. **By Location:** Har floor ke liye alag subnet (e.g., 1st floor = Subnet 1, 2nd floor = Subnet 2).
 2. **By Group / Function:** Departments ke hisab se (e.g., Admin, HR, Accounting, Students).
 3. **By Device Type:** Devices ke role ke hisab se (e.g., All PCs, All Printers, All Servers).
+
+   ---
+   
