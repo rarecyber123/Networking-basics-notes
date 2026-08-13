@@ -20,3 +20,16 @@ NAT (Network Address Translation) ne IPv4 ko zinda toh rakha, par yeh connection
 ### - Advanced Features: 
 
 IPv6 sirf bada address nahi deta, balki isme ICMPv6 jaisi behtar technologies hain jo auto-configuration aur address resolution me madad karti hain.
+
+---
+
+# 2. IPv4 Aur IPv6 Ka Saath Chalna (Coexistence Techniques)
+
+> Duniya ek saath IPv4 se IPv6 par shift nahi ho sakti, isliye dono ko saath me chalane ke liye 3 main tareeqe use hote hain:
+
+## Dual Stack:
+
+> Single device ya network par IPv4 aur IPv6 dono ek saath chalte hain.
+
+> Yeh sabse best aur native tareeqa hai transition ka.
+
