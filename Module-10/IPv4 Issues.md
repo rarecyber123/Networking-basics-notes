@@ -29,7 +29,14 @@ IPv6 sirf bada address nahi deta, balki isme ICMPv6 jaisi behtar technologies ha
 
 ## Dual Stack:
 
-> Single device ya network par IPv4 aur IPv6 dono ek saath chalte hain.
+- Single device ya network par IPv4 aur IPv6 dono ek saath chalte hain.
 
-> Yeh sabse best aur native tareeqa hai transition ka.
+-Yeh sabse best aur native tareeqa hai transition ka.
 
+## Tunneling:
+
+Agar do IPv6 networks ke beech sirf IPv4 network ho, toh IPv6 packet ko IPv4 packet ke andar encapsulate (pack) karke bheja jata hai.
+
+## Translation (NAT64):
+
+Yeh IPv6-only device ko IPv4-only device se baat karne ke liye packets ko translate (convert) karta hai.
