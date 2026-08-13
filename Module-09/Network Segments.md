@@ -26,3 +26,14 @@
 - Subnetting se Subnet 1 ka broadcast Subnet 2 tak nahi pohnchega.
 
 ---
+
+### 4. Reasons for Segmenting Networks
+
+Network ko divide karne ki main waja:
+
+- **Performance:** Network traffic kam hota hai aur speed improve hoti hai.
+- **Security:** Security policies lagana aasan ho jata hai (kaunsa subnet kisse baat kar sakta hai aur kisse nahi).
+- **Troubleshooting:** Misconfigurations ya malicious activity ka asar sirf chhotay subnet tak reh jata hai, poora network down nahi hota.
+
+  ---
+  
