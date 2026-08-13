@@ -40,3 +40,6 @@ Agar do IPv6 networks ke beech sirf IPv4 network ho, toh IPv6 packet ko IPv4 pac
 ## Translation (NAT64):
 
 Yeh IPv6-only device ko IPv4-only device se baat karne ke liye packets ko translate (convert) karta hai.
+
+---
+
