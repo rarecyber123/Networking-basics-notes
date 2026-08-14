@@ -23,7 +23,9 @@ Example:
 
 # 2. Rule 1: Leading Zeros Omit Karna (Shuruati Zeros Hatana)
 
-- Har hextet ke shuru wale zeros (0) ko aap hata sakte hain taake address chhota dikhe.
+ Har hextet ke shuru wale zeros (0) ko aap hata sakte hain taake address chhota dikhe.
 
  - Rule: Sirf shuru ke zeros hataye ja sakte hain, baad ke (trailing zeros) nahi! Agar baad ke zeros hataye to address ki value change ho jayegi.
 
+- Examples:
+  > 01ab $\rightarrow$ 1ab00ab $\rightarrow$ ab0000 $\rightarrow$ 0
