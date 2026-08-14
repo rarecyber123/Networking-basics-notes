@@ -34,4 +34,9 @@ Example:
 Agar address mai ek saath continuous zeros wale hextets aarahe hon, to un sab ko replace karke :: lagaya ja sakta hai.
 
 ### Golden Rule: 
+  
    :: poore address mai sirf ek baar use ho sakta hai! Agar do baar use karoge to kisi ko samajh nahi aayega ke kis taraf kitne zeros the.
+
+### Best Practice: 
+
+   Agar address mai zeros ke alag alag groups hon, to sab se bade zeros wale group ki jagah :: lagayein.
