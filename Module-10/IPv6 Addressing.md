@@ -27,5 +27,11 @@ Example:
 
  - Rule: Sirf shuru ke zeros hataye ja sakte hain, baad ke (trailing zeros) nahi! Agar baad ke zeros hataye to address ki value change ho jayegi.
 
-- Examples:
+ "Examples":
   > 01ab $\rightarrow$ 1ab00ab $\rightarrow$ ab0000 $\rightarrow$ 0
+
+- Rule 2: Double Colon (::) Ka Use
+Agar address mai ek saath continuous zeros wale hextets aarahe hon, to un sab ko replace karke :: lagaya ja sakta hai.
+
+### Golden Rule: 
+   :: poore address mai sirf ek baar use ho sakta hai! Agar do baar use karoge to kisi ko samajh nahi aayega ke kis taraf kitne zeros the.
