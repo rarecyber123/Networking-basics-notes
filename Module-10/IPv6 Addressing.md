@@ -43,8 +43,8 @@ Agar address mai ek saath continuous zeros wale hextets aarahe hon, to un sab ko
 
 ---
 
-# Pro-Tip 
+# Pro-Tip 💡
 
->💡Loopback address IPv6 mai 0:0:0:0:0:0:0:1 hota hai $\rightarrow$ Compress karke sirf ::1 likhte hain.
+> Loopback address IPv6 mai 0:0:0:0:0:0:0:1 hota hai $\rightarrow$ Compress karke sirf ::1 likhte hain.
 
 > Unspecified address 0:0:0:0:0:0:0:0 hota hai $\rightarrow$ Compress karke sirf :: likhte hain.
