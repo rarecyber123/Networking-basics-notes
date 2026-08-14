@@ -40,3 +40,11 @@ Agar address mai ek saath continuous zeros wale hextets aarahe hon, to un sab ko
 ### Best Practice: 
 
    Agar address mai zeros ke alag alag groups hon, to sab se bade zeros wale group ki jagah :: lagayein.
+
+---
+
+# Pro-Tip 
+
+>💡Loopback address IPv6 mai 0:0:0:0:0:0:0:1 hota hai $\rightarrow$ Compress karke sirf ::1 likhte hain.
+
+> Unspecified address 0:0:0:0:0:0:0:0 hota hai $\rightarrow$ Compress karke sirf :: likhte hain.
