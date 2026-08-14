@@ -46,8 +46,14 @@ Agar address mai ek saath continuous zeros wale hextets aarahe hon, to un sab ko
 4. Quick Comparison & Examples
 
 | **Format Type** | **Address Example** | **Explanation** |
+
 |---|---|
-| Preferred Format2001:0db8:0000:0000:0000:0000:0000:0001Poora 32-digit representationRule 1 (No Leading Zeros)2001:db8:0:0:0:0:0:1Shuruati zeros hata diyeCompressed (Rule 1 + Rule 2)2001:db8::1Zeros wale block ko :: se replace kar diya
+
+| **Preferred Format** | **2001:0db8:0000:0000:0000:0000:0000:0001** | **Poora 32-digit representation** | 
+
+| Rule 1 (No Leading Zeros) | 2001:db8:0:0:0:0:0:1 | Shuruati zeros hata diye |
+
+| Compressed (Rule 1 + Rule 2) | 2001:db8::1 | Zeros wale block ko :: se replace kar diya |
 
 ---
 
