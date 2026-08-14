@@ -19,5 +19,11 @@ Example:
 
 2001:0db8:0000:1111:0000:0000:0000:0200
 
+---
 
+# 2. Rule 1: Leading Zeros Omit Karna (Shuruati Zeros Hatana)
+
+- Har hextet ke shuru wale zeros (0) ko aap hata sakte hain taake address chhota dikhe.
+
+ - Rule: Sirf shuru ke zeros hataye ja sakte hain, baad ke (trailing zeros) nahi! Agar baad ke zeros hataye to address ki value change ho jayegi.
 
