@@ -26,3 +26,8 @@
 
   ---
   
+2. DHCP (Dynamic Host Configuration Protocol)
+
+ ###  Jab bhi aapka laptop ya mobile Wi-Fi se connect hota hai, woh DHCP server se IP address mangta hai.
+ ### Is poore process ko DORA bolte hain:
+ 
