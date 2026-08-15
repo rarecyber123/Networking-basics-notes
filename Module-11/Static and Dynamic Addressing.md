@@ -38,3 +38,6 @@
 - **R - Request:** Device server ko bolta hai: "Teek hai, main yeh offered IP address accept kar raha hoon."
 
 - **A - Acknowledge:** Server confirm karta hai: "Done! Yeh IP address ab tumhara hua (for a specific lease time)."
+
+  ---
+  
