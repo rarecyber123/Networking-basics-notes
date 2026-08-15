@@ -31,3 +31,10 @@
  ###  Jab bhi aapka laptop ya mobile Wi-Fi se connect hota hai, woh DHCP server se IP address mangta hai.
  ### Is poore process ko DORA bolte hain:
  
+- **D - Discover:** Device network par broadcast message bhejta hai: "Kya yahan koi DHCP server hai? Mujhe IP chahiye!"
+
+- **O - Offer:** DHCP server reply karta hai: "Haan main hoon! Yeh lo ek IP address jo tum use kar sakte ho."
+
+- **R - Request:** Device server ko bolta hai: "Teek hai, main yeh offered IP address accept kar raha hoon."
+
+- **A - Acknowledge:** Server confirm karta hai: "Done! Yeh IP address ab tumhara hua (for a specific lease time)."
