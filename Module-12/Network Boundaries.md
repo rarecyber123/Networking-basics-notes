@@ -28,3 +28,13 @@
 - ### Network Boundary:
 
   Wireless router local private network aur external public internet ke beech boundary (had) ka kaam karta hai.
+
+  ---
+
+ # 3. Key Rules (Same vs. Different Networks)
+
+### Same Network:
+
+-  Subnet Mask aur Default Gateway address Same hota hai.
+
+-  IP addresses aur MAC addresses Different hote hain.
