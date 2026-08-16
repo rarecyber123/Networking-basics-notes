@@ -12,3 +12,11 @@
 - ###  Automatic Assignment:
 
    Jab wireless router DHCP server banta hai, to yeh automatic tarike se local clients ko unka IP, Subnet Mask aur apna internal address as Default Gateway bhej deta hai.
+
+---
+
+# 2. Routers as Boundaries Between Networks
+
+- ### Inside (Internal) Network:
+
+  Wireless router local hosts (wired/wireless) ko private IP addresses assign karta hai. Private IPs ki wajah se internal network directly internet se access nahi ho sakta.
