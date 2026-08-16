@@ -38,3 +38,7 @@
 -  Subnet Mask aur Default Gateway address Same hota hai.
 
 -  IP addresses aur MAC addresses Different hote hain.
+
+###  Different Networks:
+
+- IP addresses, MAC addresses aur Default Gateway addresses Different hote hain.
