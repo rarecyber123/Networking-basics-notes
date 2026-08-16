@@ -24,3 +24,7 @@
 - ### Outside (External) Network:
 
   ISP router ke internet side (external interface) ko ek public routable IPv4 address assign karta hai. ISP aksar DHCP server ke zariye yeh public IP router ko deta hai (router yahan DHCP client ke taur par kaam karta hai).
+
+- ### Network Boundary:
+
+  Wireless router local private network aur external public internet ke beech boundary (had) ka kaam karta hai.
