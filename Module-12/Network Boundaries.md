@@ -20,3 +20,7 @@
 - ### Inside (Internal) Network:
 
   Wireless router local hosts (wired/wireless) ko private IP addresses assign karta hai. Private IPs ki wajah se internal network directly internet se access nahi ho sakta.
+
+- ### Outside (External) Network:
+
+  ISP router ke internet side (external interface) ko ek public routable IPv4 address assign karta hai. ISP aksar DHCP server ke zariye yeh public IP router ko deta hai (router yahan DHCP client ke taur par kaam karta hai).
