@@ -12,3 +12,19 @@
 - ### Impact :
 
   Agar Default Gateway galat configure ho, toh host local network (LAN) me communication kar sakta hai, lekin external/remote networks par connectivity nahi hogi.
+
+  ---
+
+ # 2. Network Boundaries & DHCP
+
+- ### Home Wireless Router :
+
+  Yeh local devices ke liye DHCP Server ki tarah kaam karta hai aur unhe Private IP addresses assign karta hai.
+
+- ### ISP Connection :
+
+   Connectivity ke waqt router ISP se ek public (internet-routable) IP address lene ke liye DHCP Client ki tarah kaam karta hai.
+
+- Router local internal network aur public internet ke beech boundary ka kaam karta hai.
+
+---
