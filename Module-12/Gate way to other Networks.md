@@ -28,3 +28,15 @@
 - Router local internal network aur public internet ke beech boundary ka kaam karta hai.
 
 ---
+
+# 3. Network Address Translation (NAT)
+
+###  - Purpose : 
+
+Private IP addresses ko Public (internet-routable) IP address me translate karna.
+
+- ### Advantage :
+
+   Isse ek bada group (poora LAN) sirf ek ya kuch public IP addresses share karke internet access kar sakta hai, jisse IPv4 addresses save hote hain.
+
+  
