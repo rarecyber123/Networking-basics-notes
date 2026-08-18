@@ -10,3 +10,11 @@
  - ## MAC Address (Physical):
 
    Yeh device ki hardware identity hai jo NIC par burned-in hoti hai (jaise tumhara Biometric ID / CNIC). Yeh hamesha same rehta hai chahe device kisi bhi network se jude.
+
+---
+
+# Local Network Par Delivery:
+
+- Jab data same local network (LAN) ke kisi device tak pahunchana hota hai, toh actual delivery ke liye destination ka MAC Address zaroori hota hai.
+
+- IP Address packet ko sahi destination network tak lata hai, lekin local physical medium par packet bhejney ke liye Layer 2 Frame mein destination MAC address attach karna padta hai.
