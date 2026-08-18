@@ -9,7 +9,7 @@
 
 # Broadcast MAC Address:
 
-> Ethernet mein Broadcast MAC address FFFF.FFFF.FFFF (48 Fs ya 48 ones in binary) hota hai. Network par moujood har device ki NIC is address vale frame ko accept aur process karti hai.
+- Ethernet mein Broadcast MAC address FFFF.FFFF.FFFF (48 Fs ya 48 ones in binary) hota hai. Network par moujood har device ki NIC is address vale frame ko accept aur process karti hai.
 
 ---
 
@@ -19,4 +19,12 @@
 
  - ARP Request ek Broadcast hoti hai, jo local domain ke sabhi devices tak pahunchti hai.
 
-Jis device ka IP match karta hai, woh wapas ek ARP Reply (Unicast) bhejta hai jismein uska MAC Address hota hai.
+- Jis device ka IP match karta hai, woh wapas ek ARP Reply (Unicast) bhejta hai jismein uska MAC Address hota hai.
+
+  ---
+
+# ARP Table:
+
+- MAC Address milne ke baad sender host us IP-to-MAC mapping ko apni ARP Table mein store kar leta hai taaki aage bar-bar broadcast na karni pade aur direct communication ho sake.
+
+  ---
