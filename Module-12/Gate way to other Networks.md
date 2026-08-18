@@ -31,12 +31,20 @@
 
 # 3. Network Address Translation (NAT)
 
-###  - Purpose : 
+- ### Purpose : 
 
-Private IP addresses ko Public (internet-routable) IP address me translate karna.
-
-- ### Advantage :
+> Private IP addresses ko Public (internet-routable) IP address me translate karna.
 
    Isse ek bada group (poora LAN) sirf ek ya kuch public IP addresses share karke internet access kar sakta hai, jisse IPv4 addresses save hote hain.
 
-  
+---
+
+# 4. Essential Settings for Internet Access:
+
+> PC ko Internet se connect hone ke liye teen cheezein chahiye hoti hain:
+
+- IP Address
+
+- Subnet Mask
+
+- Default Gateway Address
