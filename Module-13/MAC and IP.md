@@ -26,3 +26,11 @@
 - Agar target device local network se bahar ho (jaise Internet par), toh Ethernet frame ka Destination MAC Address target device ka nahi, balki tumhare Default Gateway (Router) ka hota hai.
 
  - Packet ka Destination IP Address target host ka hi rehta hai, lekin local network se nikalne ke liye frame Router ke MAC Address par bheja jata hai.
+
+---
+
+# Mapping MAC to IP:
+
+> Sender ko destination ka IP address toh pata hota hai (e.g., DNS ya manual input se), lekin packet bhejney ke liye us IP ke corresponding MAC address ko dhoondhna padta hai. Is mapping/discovery ke liye hi ARP (Address Resolution Protocol) use hota hai.
+
+---
