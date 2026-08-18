@@ -18,3 +18,11 @@
 - Jab data same local network (LAN) ke kisi device tak pahunchana hota hai, toh actual delivery ke liye destination ka MAC Address zaroori hota hai.
 
 - IP Address packet ko sahi destination network tak lata hai, lekin local physical medium par packet bhejney ke liye Layer 2 Frame mein destination MAC address attach karna padta hai.
+
+---
+
+# Destination Beyond Local Network (Remote Traffic):
+
+- Agar target device local network se bahar ho (jaise Internet par), toh Ethernet frame ka Destination MAC Address target device ka nahi, balki tumhare Default Gateway (Router) ka hota hai.
+
+ - Packet ka Destination IP Address target host ka hi rehta hai, lekin local network se nikalne ke liye frame Router ke MAC Address par bheja jata hai.
