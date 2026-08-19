@@ -17,7 +17,7 @@ Routing table router ke andar ek address book ya map ki tarah hoti hai, jis mein
 
   ---
 
-Information in Routing Table 
+# Information in Routing Table 
 
 Router apne table mein har route ke sath kuch zaroori cheezein store karta hai:
 
@@ -25,7 +25,7 @@ Router apne table mein har route ke sath kuch zaroori cheezein store karta hai:
 
    Wo network jahan data ko pahunchana hai (e.g., 192.168.2.0/24).
 
-  - ### ext-Hop / Gateway:
+- ### ext-Hop / Gateway:
 
      Agla router ya IP address jahan packet ko aage forward karna hai.
 
