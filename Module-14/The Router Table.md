@@ -39,4 +39,18 @@ Router apne table mein har route ke sath kuch zaroori cheezein store karta hai:
 
  ---
 
- 
+# Routes Kaise Add Hote Hain?
+
+- ### Directly Connected Networks:
+
+   Jo networks router ke apne ports se seedhe connected hote hain, unka route khud-ba-khud table mein aa jata hai.
+
+- ### Static Routes:
+
+  Yeh raste Network Administrator khud manually router mein type karke add karta hai.
+
+- ### Dynamic Routing Protocols:
+
+   Routers aapas mein baat karke (OSPF, EIGRP wagerah ke zariye) raste khud seekhte hain aur table ko automatically update karte hain.
+
+---
