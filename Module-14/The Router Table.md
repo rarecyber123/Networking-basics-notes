@@ -16,3 +16,27 @@ Routing table router ke andar ek address book ya map ki tarah hoti hai, jis mein
    Agar local network ka device kisi aisi IP par data bhejna chahta hai jo local nahi hai, toh wo data sabse pehle apne Default Gateway (router) ko bhejta hai.
 
   ---
+
+Information in Routing Table 
+
+Router apne table mein har route ke sath kuch zaroori cheezein store karta hai:
+
+- ### Destination Network:
+
+   Wo network jahan data ko pahunchana hai (e.g., 192.168.2.0/24).
+
+  - ### ext-Hop / Gateway:
+
+     Agla router ya IP address jahan packet ko aage forward karna hai.
+
+- ### Outgoing Interface:
+
+   Router ka wo apna port (e.g., GigabitEthernet0/0/0) jahan se packet bahar nikle ga.
+
+- ### Metric:
+
+ Raste ki cost ya doori. Agar ek hi destination ke do raste hon, toh kam metric wala best route select hota hai.
+
+ ---
+
+ 
