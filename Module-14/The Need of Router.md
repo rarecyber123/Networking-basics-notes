@@ -17,3 +17,14 @@
 
   ---
   
+# Role of Router 
+
+> Jab do alag networks aapas mein baat karte hain, toh wahan Router ka kaam shuru hota hai.
+
+- ### Switch vs Router:
+
+  Switch local network ke andar MAC Address dekh kar data bhejta hai. Lekin Router IP Address par kaam karta hai aur yeh decide karta hai ke data ko doosre network tak pahunchane ka sabse behtar rasta (best path) kaunsa hai.
+
+- ###  Network Portion Check:
+
+   Router IP address ka pehla hissa (Network Portion) dekhta hai. Agar sender aur receiver ka network alag ho, toh Router packet ko pakadta hai, uski purani packaging (Ethernet Frame) kholta hai, naye raste ke mutabiq nayi packaging karta hai, aur aage bhej deta hai.
