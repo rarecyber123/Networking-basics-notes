@@ -30,3 +30,19 @@
    Ek hi broadcast domain hone ki waja se network par traffic zyada hota hai, speed slow ho sakti hai, aur QoS ya Security apply karna mushkil hota hai.
 
   ---
+
+# Remote Segments (Networks Ko Divide Karna)
+
+- ### Kaise Kaam Karta Hai:
+
+  Hosts ko alag alag subnets/networks me baant kar routers ke zariye connect kiya jata hai.
+
+- ### Fayde:
+
+   Broadcast domains split hote hain jisse network speed behter hoti hai, machines dusre segment se hide ho jati hain (better security), aur complex networks ko manage karna aasan hota hai.
+
+- ### Nuksan:
+
+   Routers ki zaroorat hoti hai jisse setup mehnga aur complex hota hai, aur routing ki waja se thodi latency (delay) aa sakti hai.
+
+  ---
