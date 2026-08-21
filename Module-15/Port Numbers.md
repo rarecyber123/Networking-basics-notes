@@ -16,3 +16,19 @@
 - Private / Dynamic Ports (49152 – 65535): Yeh ziada tar dynamic source ports ke taur par client side se automatically generate hote hain.
 
 ---
+
+# Socket Pairs 
+
+- ## Socket:
+
+   IP Address aur Port Number ka combo hota hai (e.g., 192.168.1.5:1099).
+
+- ###  Socket Pair:
+
+   Client aur Server dono ke sockets mil kar ek socket pair banate hain (maslan: 192.168.1.5:1099, 192.168.1.7:80).
+
+- ### Fayda:
+
+   Is ki wajah se ek hi computer par ek saath multiple web pages ya services bager mix huay chal sakti hain.
+
+  ---
