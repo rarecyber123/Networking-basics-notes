@@ -32,3 +32,11 @@
    Is ki wajah se ek hi computer par ek saath multiple web pages ya services bager mix huay chal sakti hain.
 
   ---
+
+# Netstat Command
+
+- Kam: Aap ke system par chalne wali tamam active TCP connections aur unke port numbers dekhne ke liye use hoti hai.
+
+- Tip: Command Prompt par netstat likhein. Agar IP addresses aur port numbers ko numerical form mein dekhna ho toh netstat -n use karein.
+
+  ---
