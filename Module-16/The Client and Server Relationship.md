@@ -41,3 +41,16 @@
 
   ---
   
+# 4. URI ke Parts
+
+(Example: [https://www.example.com/author/book.html#page155](https://www.example.com/author/book.html#page155))
+
+- Protocol/Scheme: https:// (kaunsa protocol use ho raha hai)
+
+- Hostname: [www.example.com](https://www.example.com) (server ka naam)
+
+- Path & File: /author/book.html (file ki exact location)
+
+- Fragment: #page155 (page ka specific section)
+
+  ---
