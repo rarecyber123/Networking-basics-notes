@@ -15,4 +15,18 @@
 
    ---
 
-2. Common Server Types
+# 2. Common Server Types
+
+- ## Web Server:
+
+   Web pages serve karta hai $\rightarrow$ Browser (Chrome/Firefox) se access hota hai.
+
+  - ## Email Server:
+
+     Mail handle karta hai $\rightarrow$ Email client (Outlook) se access hota hai.
+
+    - ## File Server:
+
+       Files central location par store karta hai $\rightarrow$ File Explorer se access hota hai.
+
+      
