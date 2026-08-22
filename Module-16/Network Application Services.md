@@ -18,3 +18,15 @@
 - # DHCP (Dynamic Host Configuration Protocol):
 
   Devices ko automatically IP addresses aur networking details allocate karta hai taaki wo internet se connect ho sakein.
+
+- # HTTP (Hypertext Transfer Protocol):
+
+   Web browsers ke zariye web pages request karne aur web servers se files deliver karne ke liye use hota hai.
+
+- # FTP (File Transfer Protocol):
+
+  Systems ke darmiyan interactive file transfer ke liye use hota hai.
+
+  ---
+
+  
