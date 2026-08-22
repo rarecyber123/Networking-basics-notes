@@ -19,14 +19,25 @@
 
 - ## Web Server:
 
-   Web pages serve karta hai $\rightarrow$ Browser (Chrome/Firefox) se access hota hai.
+  Web pages serve karta hai $\rightarrow$ Browser (Chrome/Firefox) se access hota hai.
 
   - ## Email Server:
 
-     Mail handle karta hai $\rightarrow$ Email client (Outlook) se access hota hai.
+  Mail handle karta hai $\rightarrow$ Email client (Outlook) se access hota hai.
 
     - ## File Server:
 
-       Files central location par store karta hai $\rightarrow$ File Explorer se access hota hai.
+ Files central location par store karta hai $\rightarrow$ File Explorer se access hota hai.
 
-      
+---  
+
+# 3. Web Identifiers: URI, URL, aur URN
+
+- URI (Uniform Resource Identifier): Specific network resource ko identify karne waala unique text string. Iske do main parts hotey hain:
+
+- URL (Uniform Resource Locator): Resource ka actual network address batata hai (e.g., https:// ya sftp://).
+
+- URN (Uniform Resource Name): Protocols ke bina sirf resource ka naam/namespace batata hai.
+
+  ---
+  
