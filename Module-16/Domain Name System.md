@@ -30,3 +30,9 @@
 C:\> nslookup enter karke aap manual DNS queries shuru kar sakte hain ya direct domain ka naam de kar IP address dekh sakte hain (e.g., nslookup cisco.com).
 
 ---
+
+ # Takeaways
+
+## Syntax Checker: NetAcad mai lab practice ke liye Syntax Checker istemal hota hai, jahan aapko exact commands type karni hoti hain.
+
+## Packet Tracer: Yeh ek ziada advanced tool hai jahan aap real equipment ki tarah short commands bhi use kar sakte hain.
