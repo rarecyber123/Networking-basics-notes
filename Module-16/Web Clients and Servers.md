@@ -21,4 +21,14 @@
 
   ---
 
-  
+# Main Steps 
+
+- DNS Lookup: Client pehle DNS server se website ka IP address mangta hai.
+
+- HTTP Request: Client IP address aur Port 80/443 use karke web server ko HTTP/HTTPS request bhejta hai.
+
+- Server Response: Web server response mai HTML data bhejta hai.
+
+- Browser Display: Client browser HTML code ko interpret karke screen par readable web page show kar deta hai.
+
+  ---
