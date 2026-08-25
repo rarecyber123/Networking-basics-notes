@@ -5,7 +5,7 @@
 
 ---
 
-How DNS works : 
+# How DNS works : 
 
 - ## DHCP & ISP Connection:
 
@@ -14,3 +14,19 @@ How DNS works :
  - ## IP Address Ki Talaash:
 
    Jab aap browser mai koi URL (jaise www.cisco.com) likhte hain, toh sab se pehle aapka device DNS server se puchta hai: "Is website ka IP address kya hai?"
+
+  - ##  Request Bhejna: 
+  
+  DNS server IP address dhoond kar wapas bhejta hai, aur phir aapka device us IP address par actual HTTP request bhejta hai.
+
+---
+
+# Nslookup Command (DNS Test Karne Ke Liye)
+
+> Agar aap check karna chahte hain ke kisi domain ka IP address kya hai, toh aap terminal ya command prompt par nslookup utility ka istemal kar sakte hain.
+
+## Windows Command Prompt:
+
+C:\> nslookup enter karke aap manual DNS queries shuru kar sakte hain ya direct domain ka naam de kar IP address dekh sakte hain (e.g., nslookup cisco.com).
+
+---
