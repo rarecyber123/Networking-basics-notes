@@ -6,3 +6,11 @@
 # FTP Ka Operating Mechanism
 
 ### FTP do alag TCP ports ke zariye connection handle karta hai:
+
+## Control Connection (TCP Port 21):
+
+Jab client server se connect hota hai, sabse pehle port 21 par control connection banta hai. Yeh connection commands bhejne (jaise login, delete, rename, etc.) aur session control karne ke kaam aata hai.
+
+## Data Connection (TCP Port 20):
+
+Commands clear hone ke baad actual files upload ya download karne ke liye server TCP port 20 ka istemal karke data transfer connection establish karta hai.
