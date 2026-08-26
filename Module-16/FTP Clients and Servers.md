@@ -11,6 +11,15 @@
 
 Jab client server se connect hota hai, sabse pehle port 21 par control connection banta hai. Yeh connection commands bhejne (jaise login, delete, rename, etc.) aur session control karne ke kaam aata hai.
 
+---
+
+# Key Features & Usage
+
+- File Management: Download aur upload ke ilawa remote server par file delete karna ya rename karna bhi possible hota hai.
+
+- Interfaces: Windows/Mac ke built-in command line, web browsers, ya FileZilla jaise dedicated GUI-based tools ke zariye utilize kiya ja sakta hai.
+
+  ---
 ## Data Connection (TCP Port 20):
 
 Commands clear hone ke baad actual files upload ya download karne ke liye server TCP port 20 ka istemal karke data transfer connection establish karta hai.
