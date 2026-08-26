@@ -35,3 +35,6 @@ Security issues ki wajah se aaj kal hamesha Telnet ki jagah SSH ka istemal kiya 
 |---|---|
 | Unencrypted (Plaintext) | Less Secure | Port 23 |
 | Encrypted | Highly Secure | Port 22 |
+
+---
+
