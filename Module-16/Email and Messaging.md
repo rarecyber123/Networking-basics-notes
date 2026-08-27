@@ -37,3 +37,19 @@
 - Port: 143
 
   ---
+
+# 3. Text Messaging (Instant Messaging)
+
+### How it works:
+
+Works in real-time where devices act as both Client and Server simultaneously to send and receive messages at the same time.
+
+### Types: 
+
+Web-based chats, integrated social media DMs, or standalone apps (WhatsApp, MS Teams, Cisco Webex).
+
+### Beyond Text:
+
+Modern messaging apps also handle files, audio, and video sharing.
+
+---
