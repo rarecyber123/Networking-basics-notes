@@ -27,3 +27,13 @@
 - Port: 110
 
 ---
+
+### IMAP4 (Internet Message Access Protocol v4)
+
+- Role: Syncs and manages emails directly on the server.
+
+- Key Feature: Keeps emails stored on the server so you can access them from multiple devices.
+
+- Port: 143
+
+  ---
