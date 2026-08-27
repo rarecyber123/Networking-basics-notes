@@ -16,3 +16,14 @@
 - Role: Used exclusively for sending emails (client to server, or server to server).
 
 - Port: 25
+
+
+### POP3 (Post Office Protocol v3)
+
+- Role: Downloads emails from the server directly to your device.
+
+- Key Feature: Deletes the email from the server once downloaded (by default).
+
+- Port: 110
+
+---
