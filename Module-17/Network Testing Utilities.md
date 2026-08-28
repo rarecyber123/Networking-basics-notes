@@ -32,3 +32,9 @@
 - Echo Request packet destination par bhejta hai. Agar host reachable ho to wo Echo Reply return karta hai.
 
 - Default Gateway Ping: Is se ye verify hota hai ke host apne local network se bahar doosre networks ke hosts tak pohanchne ki capability rakhta hai ya nahi.
+
+## DNS Failure Scenarios:
+
+- Agar user IP Address se ping kar pa raha hai par Domain Name (e.g. [www.cisco.com](https://www.cisco.com)) browser mai open nahi ho raha, to iska matlab hai ke DNS Server proper kaam nahi kar raha.
+
+  ---
