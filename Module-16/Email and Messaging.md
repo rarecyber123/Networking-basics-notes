@@ -53,3 +53,11 @@ Web-based chats, integrated social media DMs, or standalone apps (WhatsApp, MS T
 Modern messaging apps also handle files, audio, and video sharing.
 
 ---
+
+# 4. Internet Phone Calls (VoIP)
+
+- Voice over IP (VoIP) analog voice signals ko digital packets mai convert karke network par transfer karta hai.
+
+- Regular landline ya mobile numbers par call karne ke liye Gateway ki zaroorat hoti hai jo PSTN (Public Switched Telephone Network) se connect karta hai.
+
+  ---
