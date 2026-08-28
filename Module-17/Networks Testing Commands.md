@@ -54,3 +54,12 @@ DHCP Server se naya IP Address Request karta hai. (Boht se network issues bas re
 
   ---
   
+# 4. Ping Results analyze
+
+## Ping Fail Hone Ke Cases:
+
+- Request Timed Out: Network route mai koi blockage hai ya firewall ICMP packets ko block kar rahi hai.
+
+- Ping Default Gateway Fail: Problem local network / router ki side par hai.
+
+- Ping Gateway Success, Par Internet Down: Local network sahi hai, issue ISP ya outer routing mai hai.
