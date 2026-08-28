@@ -45,3 +45,12 @@ DHCP Server se naya IP Address Request karta hai. (Boht se network issues bas re
 # 3. The ping Command
 
 > Subse zyada use hone wala utility tool. Ye ICMP Echo Request bhejta hai; agar target host sahi kaam kar raha hai, to wo ICMP Echo Reply wapas bhejta hai.
+
+- IP Ping (ping 10.10.10.1): Direct host ya gateway ki reachability check karta hai.
+
+- Domain Ping (ping [www.cisco.com](https://www.cisco.com)): Pahle DNS server se domain ko IP mai convert karwata hai, fir ping bhejta hai.
+
+- Note: Agar IP se ping kaam kare par domain name se fail ho jaye, to issue DNS Server mai hota hai.
+
+  ---
+  
