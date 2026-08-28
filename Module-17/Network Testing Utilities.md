@@ -20,3 +20,9 @@
 - ipconfig: Standard IP address, Subnet Mask, aur Default Gateway batata hai.
 
 - ipconfig /all: Advanced details jaise MAC Address, DNS Servers, DHCP Server address, aur Lease timing batata hai.
+
+## DHCP Renewal Process:
+
+- ipconfig /release: Current DHCP IP binding ko release kar deta hai.
+
+- ipconfig /renew: DHCP server se nayi IP details request karta hai (incorrect/outdated IP issue solve karne ke liye).
