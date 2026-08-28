@@ -63,3 +63,13 @@ DHCP Server se naya IP Address Request karta hai. (Boht se network issues bas re
 - Ping Default Gateway Fail: Problem local network / router ki side par hai.
 
 - Ping Gateway Success, Par Internet Down: Local network sahi hai, issue ISP ya outer routing mai hai.
+
+ ## Common Ping Parameters:
+
+- -t: Continuous ping bhejta rehta hai (jab tak Ctrl+C press na karein).
+
+- -n count: Specific number of packets bhejne ke liye (e.g., ping -n 10 8.8.8.8).
+
+- -4 / -6: Specifically IPv4 ya IPv6 force karne ke liye.
+
+  ---
