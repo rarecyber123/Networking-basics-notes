@@ -26,3 +26,9 @@
 - ipconfig /release: Current DHCP IP binding ko release kar deta hai.
 
 - ipconfig /renew: DHCP server se nayi IP details request karta hai (incorrect/outdated IP issue solve karne ke liye).
+
+##  Ping Mechanism:
+
+- Echo Request packet destination par bhejta hai. Agar host reachable ho to wo Echo Reply return karta hai.
+
+- Default Gateway Ping: Is se ye verify hota hai ke host apne local network se bahar doosre networks ke hosts tak pohanchne ki capability rakhta hai ya nahi.
