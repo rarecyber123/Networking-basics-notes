@@ -12,3 +12,11 @@
 - nslookup: Domain Name System (DNS) server ko directly query karta hai domain name resolution check karne ke liye.
 
   ---
+
+# 2. Troubleshooting Highlights
+
+## Basic vs Detailed IP Config:
+
+- ipconfig: Standard IP address, Subnet Mask, aur Default Gateway batata hai.
+
+- ipconfig /all: Advanced details jaise MAC Address, DNS Servers, DHCP Server address, aur Lease timing batata hai.
