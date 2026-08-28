@@ -41,3 +41,7 @@ Current DHCP IP Address binding ko chhor (release kar) deta hai.
 DHCP Server se naya IP Address Request karta hai. (Boht se network issues bas release/renew karne se solve ho jate hain).
 
 ---
+
+# 3. The ping Command
+
+> Subse zyada use hone wala utility tool. Ye ICMP Echo Request bhejta hai; agar target host sahi kaam kar raha hai, to wo ICMP Echo Reply wapas bhejta hai.
